@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390835540130",
+    "firebase_url": "https://facedtech-e5088.firebaseio.com",
+    "project_id": "facedtech-e5088",
+    "storage_bucket": "facedtech-e5088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390835540130:android:94e0b4c1c67bd34e",
+        "android_client_info": {
+          "package_name": "com.example.faced_tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390835540130-odal0006a4o9bum0g5t74vvr5q7a8ho6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faced_tech",
+            "certificate_hash": "0f0ee515abd9a49dadede853aaef925d47a92143"
+          }
+        },
+        {
+          "client_id": "390835540130-bnmebm763vmmrmmk66om4aktes5kiase.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeUSkOSQwYODXXDuPCLAGoLC9qD0xj3D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390835540130-bnmebm763vmmrmmk66om4aktes5kiase.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
